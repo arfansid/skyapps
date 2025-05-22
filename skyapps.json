@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "appName": "ReVanced Manager",
+            "appName": "ReVanced Manager1",
             "androidPackageName": "com.revanced.net.revancedmanager",
             "latestVersionCode": "2.0.11",
             "appShortDescription": "ReVanced Manager (RV Manager) is an all-in-one solution for downloading, installing, and managing ReVanced apps and other modded APKs, offering a safe, reliable, and user-friendly experience.",
